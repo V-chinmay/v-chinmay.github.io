@@ -1,0 +1,13 @@
+title: Chinmay Vernekar
+description: Backend, IAM, OAuth2, Distributed Systems
+theme: minima
+
+author:
+  name: Chinmay Vernekar
+  email: vernekarchinmay@gmail.com
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
